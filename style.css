@@ -1,0 +1,59 @@
+body{
+    background-color: #fff8dc;
+}
+h3{
+    color:#191970 ;
+    font-style: italic;
+    display:flex;
+    justify-content: center; 
+}
+
+.header{
+    color:#ffffff;
+    background-color:#191970 ;
+    width:100%; 
+    font-style: italic;
+    border: 100px;
+    display:flex;
+    justify-content: center;
+}
+.menu{
+    padding:10px;
+    display:flex;
+    justify-content:center;
+}
+
+.animals{
+    padding: 1cm;
+    display:flex;
+    justify-content: center;
+}
+.camel{
+    margin: 5px;
+    background-color: #ACECD5;
+}
+.chameleon{
+    margin: 5px;
+    background-color: #FFF9AA;
+}
+.cicada{
+    margin: 5px;
+    background-color: #FFD5B8;
+}
+.panda{
+    margin: 5px;
+    background-color: #ACECD5;
+}
+.pigeon{
+    margin: 5px;
+    background-color: #FFF9AA;
+}
+.teddy{
+    margin: 5px;
+    background-color: #FFD5B8;
+}
+p{
+    color:#191970;
+    font-size:25px;
+    text-align:center;
+}
